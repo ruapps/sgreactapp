@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/sgreactapp/static/css/main.97c876ad.css",
-    "main.js": "/sgreactapp/static/js/main.a72782f3.js",
+    "main.css": "/sgreactapp/static/css/main.12664e52.css",
+    "main.js": "/sgreactapp/static/js/main.6bac2089.js",
     "static/js/787.128b90ea.chunk.js": "/sgreactapp/static/js/787.128b90ea.chunk.js",
     "static/media/18591063.jpg": "/sgreactapp/static/media/18591063.6d0bd0e806cec0e0fa57.jpg",
     "index.html": "/sgreactapp/index.html",
-    "main.97c876ad.css.map": "/sgreactapp/static/css/main.97c876ad.css.map",
-    "main.a72782f3.js.map": "/sgreactapp/static/js/main.a72782f3.js.map",
+    "main.12664e52.css.map": "/sgreactapp/static/css/main.12664e52.css.map",
+    "main.6bac2089.js.map": "/sgreactapp/static/js/main.6bac2089.js.map",
     "787.128b90ea.chunk.js.map": "/sgreactapp/static/js/787.128b90ea.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.97c876ad.css",
-    "static/js/main.a72782f3.js"
+    "static/css/main.12664e52.css",
+    "static/js/main.6bac2089.js"
   ]
 }
