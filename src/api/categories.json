@@ -1,0 +1,123 @@
+[
+    { 
+        "name": "Electronics" ,
+        "id" : "electronics", 
+        "products": [
+            {
+                "name": "IPhone", 
+                "description": "Suffered alteration in some form, bysuffalterattion in some forme, byinjected humor, or randomised", 
+                "price": "$100",
+                "img": "/sgreactapp/philipp-arlt-8EyB_RvaWtY-unsplash.jpg"
+            },
+            {
+                "name": "Headphone", 
+                "description": "Suffered alteration in some form, bysuffalterattion in some forme, byinjected humor, or randomised", 
+                "price": "$100",
+                "img": "/sgreactapp/zam-nungaray-acw3b7q6Ys0-unsplash.jpg"
+            },
+            {
+                "name": "Watch", 
+                "description": "Suffered alteration in some form, bysuffalterattion in some forme, byinjected humor, or randomised", 
+                "price": "$100",
+                "img":"/sgreactapp/malicki-m-beser-PKMvkg7vnUo-unsplash.jpg"
+            },
+            {
+                "name": "Smartwatch", 
+                "description": "Suffered alteration in some form, bysuffalterattion in some forme, byinjected humor, or randomised", 
+                "price": "$100",
+                "img": "/sgreactapp/philipp-arlt-8EyB_RvaWtY-unsplash.jpg"
+            }
+        ]
+    },
+    { 
+        "name":  "Jewelery",
+        "id" : "jewelery", 
+        "products":[
+        {
+            "name": "Gold ", 
+            "description": "Suffered alteration in some form, bysuffalterattion in some forme, byinjected humor, or randomised", 
+            "price": "$100",
+            "img": "/sgreactapp/zam-nungaray-acw3b7q6Ys0-unsplash.jpg"
+        },
+        {
+            "name": "Diamond ", 
+            "description": "Suffered alteration in some form, bysuffalterattion in some forme, byinjected humor, or randomised", 
+            "price": "$100",
+            "img":"/sgreactapp/malicki-m-beser-PKMvkg7vnUo-unsplash.jpg"
+        },
+        {
+            "name": "Silver", 
+            "description": "Suffered alteration in some form, bysuffalterattion in some forme, byinjected humor, or randomised", 
+            "price": "$100",
+            "img": "/sgreactapp/zam-nungaray-acw3b7q6Ys0-unsplash.jpg"
+        },
+        {
+            "name": "Bronze ", 
+            "description": "Suffered alteration in some form, bysuffalterattion in some forme, byinjected humor, or randomised", 
+            "price": "$100",
+            "img": "/sgreactapp/philipp-arlt-8EyB_RvaWtY-unsplash.jpg"
+        }
+        ]
+    },      
+    { 
+        "name":  "Men's clothing",
+        "id" : "men's clothing", 
+        "products":[
+        {
+            "name": "Flora Jacket", 
+            "description": "Suffered alteration in some form, bysuffalterattion in some forme, byinjected humor, or randomised", 
+            "price": "$100",
+            "img": "/sgreactapp/zam-nungaray-acw3b7q6Ys0-unsplash.jpg"
+        },
+        {
+            "name": "Denim Jacket", 
+            "description": "Suffered alteration in some form, bysuffalterattion in some forme, byinjected humor, or randomised", 
+            "price": "$100",
+            "img": "/sgreactapp/philipp-arlt-8EyB_RvaWtY-unsplash.jpg"
+        },
+        {
+            "name": "Flora Jacket", 
+            "description": "Suffered alteration in some form, bysuffalterattion in some forme, byinjected humor, or randomised", 
+            "price": "$100",
+            "img": "/sgreactapp/malicki-m-beser-PKMvkg7vnUo-unsplash.jpg"
+        },
+        {
+            "name": "Denim Jacket", 
+            "description": "Suffered alteration in some form, bysuffalterattion in some forme, byinjected humor, or randomised", 
+            "price": "$100",
+            "img": "/sgreactapp/philipp-arlt-8EyB_RvaWtY-unsplash.jpg"
+
+        }
+        ]
+    },
+    { 
+        "name":  "Women's clothing",
+        "id" : "women's clothing", 
+        "products":[ 
+        {
+            "name": "Denim Jacket", 
+            "description": "Suffered alteration in some form, bysuffalterattion in some forme, byinjected humor, or randomised", 
+            "price": "$100",
+            "img": "/sgreactapp/philipp-arlt-8EyB_RvaWtY-unsplash.jpg"
+        },
+        {
+            "name": "Flora Jacket", 
+            "description": "Suffered alteration in some form, bysuffalterattion in some forme, byinjected humor, or randomised", 
+            "price": "$100",
+            "img":"/sgreactapp/malicki-m-beser-PKMvkg7vnUo-unsplash.jpg"
+        },
+        {
+            "name": "Denim Jacket", 
+            "description": "Suffered alteration in some form, bysuffalterattion in some forme, byinjected humor, or randomised", 
+            "price": "$100",
+            "img": "/sgreactapp/philipp-arlt-8EyB_RvaWtY-unsplash.jpg"
+        },
+        {
+            "name": "Flora Jacket", 
+            "description": "Suffered alteration in some form, bysuffalterattion in some forme, byinjected humor, or randomised",
+            "price": "$100",
+            "img": "/sgreactapp/zam-nungaray-acw3b7q6Ys0-unsplash.jpg"
+        }
+        ]
+    }
+]
