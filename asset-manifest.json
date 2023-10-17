@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/sgreactapp/static/css/main.b9b08b1c.css",
-    "main.js": "/sgreactapp/static/js/main.2720acd0.js",
+    "main.css": "/sgreactapp/static/css/main.1857c8b5.css",
+    "main.js": "/sgreactapp/static/js/main.7bfaeff4.js",
     "static/js/787.128b90ea.chunk.js": "/sgreactapp/static/js/787.128b90ea.chunk.js",
     "static/media/18591063.jpg": "/sgreactapp/static/media/18591063.6d0bd0e806cec0e0fa57.jpg",
     "index.html": "/sgreactapp/index.html",
-    "main.b9b08b1c.css.map": "/sgreactapp/static/css/main.b9b08b1c.css.map",
-    "main.2720acd0.js.map": "/sgreactapp/static/js/main.2720acd0.js.map",
+    "main.1857c8b5.css.map": "/sgreactapp/static/css/main.1857c8b5.css.map",
+    "main.7bfaeff4.js.map": "/sgreactapp/static/js/main.7bfaeff4.js.map",
     "787.128b90ea.chunk.js.map": "/sgreactapp/static/js/787.128b90ea.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b9b08b1c.css",
-    "static/js/main.2720acd0.js"
+    "static/css/main.1857c8b5.css",
+    "static/js/main.7bfaeff4.js"
   ]
 }
